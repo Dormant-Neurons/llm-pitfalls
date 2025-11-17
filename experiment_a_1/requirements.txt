@@ -1,0 +1,11 @@
+numpy==1.26.2
+openai==1.66.5
+pandas==2.1.4
+scikit-image==0.24.0
+scikit-learn==1.6.1
+scipy==1.11.4
+seaborn==0.13.1
+keybert==0.9.0
+nltk==3.9.1
+pydantic-settings==2.8.1
+pydantic_core==2.27.1

@@ -1,0 +1,75 @@
+cff-version: 1.2.0
+message: If you use this repository, please cite both the article from preferred-citation and the repository itself.
+authors:
+  - family-names: Evertz
+    given-names: Jonathan
+  - family-names: Risse
+    given-names: Niklas
+  - family-names: Neuer
+    given-names: Nicolai
+  - family-names: Müller
+    given-names: Andreas
+  - family-names: Normann
+    given-names: Philipp
+  - family-names: Sapia
+    given-names: Gaetano
+  - family-names: Gupta
+    given-names: Srishti
+  - family-names: Pape
+    given-names: David
+  - family-names: Shaw
+    given-names: Soumya
+  - family-names: Srivastav
+    given-names: Devansh
+  - family-names: Wressnegger
+    given-names: Christian
+  - family-names: Quiring
+    given-names: Erwin
+  - family-names: Eisenhofer
+    given-names: Thorsten
+  - family-names: Arp
+    given-names: Daniel
+  - family-names: Schönherr
+    given-names: Lea
+title: 'Chasing Shadows: Pitfalls in LLM Security Research'
+version: 1.0.0
+date-released: '2026-02-27'
+url: 'https://github.com/Dormant-Neurons/llm-pitfalls'
+preferred-citation:
+  authors:
+    - family-names: Evertz
+      given-names: Jonathan
+    - family-names: Risse
+      given-names: Niklas
+    - family-names: Neuer
+      given-names: Nicolai
+    - family-names: Müller
+      given-names: Andreas
+    - family-names: Normann
+      given-names: Philipp
+    - family-names: Sapia
+      given-names: Gaetano
+    - family-names: Gupta
+      given-names: Srishti
+    - family-names: Pape
+      given-names: David
+    - family-names: Shaw
+      given-names: Soumya
+    - family-names: Srivastav
+      given-names: Devansh
+    - family-names: Wressnegger
+      given-names: Christian
+    - family-names: Quiring
+      given-names: Erwin
+    - family-names: Eisenhofer
+      given-names: Thorsten
+    - family-names: Arp
+      given-names: Daniel
+    - family-names: Schönherr
+      given-names: Lea
+  title: 'Chasing Shadows: Pitfalls in LLM Security Research'
+  type: conference-paper
+  year: '2026'
+  collection-title: Network and Distributed System Security Symposium (NDSS)
+  conference: {Network and Distributed System Security Symposium (NDSS)}
+  publisher: {Network and Distributed System Security Symposium (NDSS)}

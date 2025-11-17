@@ -1,0 +1,11 @@
+numpy
+pandas
+scikit-learn
+tqdm
+python-dotenv
+nltk
+python-Levenshtein
+openai>=1.0.0
+anthropic
+requests
+datasets
