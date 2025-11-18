@@ -1,0 +1,73 @@
+Topic,P1 - Data Poisoning,P2 - Label Inaccuracy,P3 - Data Leakage,P4 - Model Collapse,P5 - Spurious Correlations,P6 - Context Truncation,P7 - Prompt Sensitivity,P8 - Surrogate Fallacy,P9 - Model Ambiguity
+GenAI Safety,Not present,Not present,Does not apply,Not present,Not present,Present (but discussed),Not present,Not present,Present
+Vulnerability Detection,Does not apply,Not present,Present (but discussed),Present,Likely present,Partly present (but discussed),Not present,Partly present,Partly present
+GenAI Safety,Does not apply,Not present,Likely present,Not present,Not present,Not present,Not present,Not present,Present
+GenAI Safety,Not present,Not present,Not present,Not present,Not present,Not present,Does not apply,Not present,Present
+Vulnerability Detection,Does not apply,Not present,Not present,Does not apply,Likely present,Partly present (but discussed),Not present,Partly present,Present
+Fuzzing,Does not apply,Does not apply,Partly present (but discussed),Not present,Not present,Partly present (but discussed),Not present,Not present,Present
+Security in LLM,Partly present,Not present,Present,Not present,Not present,Unclear from text,Not present,Present (but discussed),Present
+Security in LLM,Not present,Present,Likely present,Does not apply,Not present,Not present,Likely present,Partly present,Partly present
+GenAI Safety,Not present,Not present,Unclear from text,Partly present,Unclear from text,Not present,Present,Not present,Present
+Security in LLM,Does not apply,Not present,Present,Present,Not present,Not present,Not present,Not present,Present
+GenAI Safety,Not present,Not present,Likely present,Does not apply,Present,Not present,Not present,Present,Present
+Security in LLM,Does not apply,Not present,Does not apply,Does not apply,Does not apply,Does not apply,Not present,Not present,Present
+Secure Code Generation,Likely present,Not present,Likely present,Not present,Not present,Present,Present (but discussed),Not present,Present
+Secure Code Generation,Does not apply,Not present,Likely present,Not present,Not present,Does not apply,Not present,Not present,Present
+Security in LLM,Likely present,Not present,Present,Not present,Not present,Not present,Does not apply,Partly present,Not present
+GenAI Safety,Not present,Not present,Partly present,Present,Not present,Not present,Present,Present,Present
+Fuzzing,Does not apply,Not present,Present (but discussed),Does not apply,Not present,Present (but discussed),Not present,Partly present (but discussed),Not present
+GenAI Safety,Likely present,Not present,Not present,Not present,Not present,Not present,Present,Not present,Present
+Vulnerability Detection,Does not apply,Not present,Present (but discussed),Does not apply,Not present,Unclear from text,Not present,Present,Present
+Secure Code Generation,Does not apply,Partly present (but discussed),Partly present (but discussed),Does not apply,Likely present,Unclear from text,Present,Partly present,Present
+Vulnerability Detection,Does not apply,Not present,Likely present (but discussed),Does not apply,Not present,Likely present,Present (but discussed),Partly present,Present
+Fuzzing,Does not apply,Does not apply,Not present,Does not apply,Does not apply,Not present,Present,Partly present,Not present
+Security in LLM,Does not apply,Partly present,Present,Partly present,Not present,Not present,Not present,Unclear from text,Present
+GenAI Safety,Not present,Not present,Not present,Not present,Not present,Not present,Not present,Not present,Partly present
+Security in LLM,Does not apply,Not present,Unclear from text,Does not apply,Does not apply,Unclear from text,Partly present,Not present,Present
+Security in LLM,Does not apply,Not present,Not present,Does not apply,Not present,Not present,Present,Not present,Present
+Security in LLM,Present,Not present,Present (but discussed),Does not apply,Present (but discussed),Not present,Not present,Present (but discussed),Not present
+Security in LLM,Not present,Partly present (but discussed),Not present,Does not apply,Not present,Not present,Likely present,Not present,Partly present
+Security in LLM,Does not apply,Partly present (but discussed),Not present,Does not apply,Not present,Not present,Not present,Not present,Present
+GenAI Safety,Not present,Partly present (but discussed),Not present,Not present,Not present,Not present,Does not apply,Not present,Present
+Security in LLM,Does not apply,Present (but discussed),Unclear from text,Does not apply,Partly present (but discussed),Not present,Not present,Not present,Partly present
+Fuzzing,Does not apply,Does not apply,Does not apply,Does not apply,Does not apply,Partly present (but discussed),Not present,Not present,Present
+GenAI Safety,Present,Likely present,Partly present,Not present,Not present,Not present,Likely present,Not present,Present
+GenAI Safety,Not present,Not present,Present,Not present,Not present,Present,Not present,Not present,Not present
+Security in LLM,Likely present,Not present,Partly present,Not present,Likely present,Likely present,Does not apply,Partly present,Present
+GenAI Safety,Does not apply,Not present,Does not apply,Does not apply,Does not apply,Not present,Partly present,Partly present,Present
+Secure Code Generation,Does not apply,Not present,Likely present,Does not apply,Unclear from text,Unclear from text,Not present,Partly present,Not present
+Security in LLM,Not present,Not present,Likely present,Present,Unclear from text,Not present,Not present,Not present,Present
+Security in LLM,Does not apply,Not present,Does not apply,Does not apply,Does not apply,Does not apply,Not present,Present,Does not apply
+GenAI Safety,Not present,Not present,Likely present,Does not apply,Not present,Likely present,Does not apply,Present,Present
+Fuzzing,Does not apply,Not present,Not present,Does not apply,Not present,Not present,Not present,Partly present,Present
+Secure Code Generation,Does not apply,Not present,Present (but discussed),Does not apply,Not present,Unclear from text,Not present,Not present,Present
+Security in LLM,Not present,Not present,Likely present,Not present,Present,Not present,Does not apply,Not present,Present
+Security in LLM,Not present,Not present,Likely present,Present,Not present,Not present,Does not apply,Partly present,Present
+Vulnerability Detection,Does not apply,Not present,Not present,Does not apply,Not present,Not present,Present,Not present,Present
+Vulnerability Detection,Likely present,Not present,Present (but discussed),Not present,Present,Present (but discussed),Does not apply,Not present,Not present
+Vulnerability Detection,Likely present,Not present,Not present,Not present,Likely present,Present,Does not apply,Not present,Present
+Vulnerability Detection,Likely present,Not present,Likely present,Not present,Likely present,Unclear from text,Does not apply,Not present,Present
+Vulnerability Repair,Likely present,Not present,Likely present,Present,Likely present,Present (but discussed),Not present,Partly present,Present
+Vulnerability Detection,Likely present,Not present,Likely present,Present,Likely present,Present,Partly present,Present (but discussed),Present
+Vulnerability Detection,Likely present,Not present,Likely present,Not present,Likely present,Present,Does not apply,Not present,Not present
+Vulnerability Detection,Likely present,Not present,Likely present,Not present,Likely present,Present,Does not apply,Present,Present
+Vulnerability Repair,Likely present,Not present,Likely present,Not present,Unclear from text,Unclear from text,Not present,Partly present,Present
+Vulnerability Detection,Likely present,Not present,Likely present,Not present,Likely present,Present,Does not apply,Not present,Present
+Security in LLM,Not present,Not present,Not present,Present,Not present,Not present,Not present,Not present,Present
+Security in LLM,Not present,Not present,Present,Not present,Unclear from text,Not present,Not present,Present,Present
+Security in LLM,Does not apply,Present (but discussed),Present (but discussed),Does not apply,Not present,Likely present,Likely present,Not present,Partly present
+Security in LLM,Not present,Not present,Likely present,Not present,Unclear from text,Not present,Likely present,Partly present (but discussed),Present
+Fuzzing,Not present,Present (but discussed),Likely present,Present,Likely present,Unclear from text,Present,Present,Not present
+Security in LLM,Likely present,Does not apply,Likely present,Not present,Not present,Not present,Not present,Not present,Present
+Security in LLM,Unclear from text,Present,Present,Not present,Unclear from text,Not present,Not present,Not present,Present
+Vulnerability Repair,Likely present,Not present,Likely present,Not present,Likely present,Likely present,Present (but discussed),Partly present,Partly present
+Fuzzing,Not present,Does not apply,Not present,Does not apply,Not present,Present (but discussed),Not present,Partly present,Partly present
+Vulnerability Detection,Does not apply,Does not apply,Not present,Unclear from text,Likely present,Not present,Unclear from text,Present,Present
+Vulnerability Repair,Likely present,Present (but discussed),Likely present,Present,Not present,Present,Present,Partly present,Present
+Vulnerability Repair,Does not apply,Present (but discussed),Likely present,Likely present,Likely present,Unclear from text,Present,Not present,Present
+GenAI Safety,Does not apply,Present,Unclear from text,Not present,Likely present,Not present,Partly present (but discussed),Not present,Present
+Security in LLM,Does not apply,Not present,Present,Does not apply,Unclear from text,Not present,Partly present (but discussed),Present,Present
+Vulnerability Detection,Present,Not present,Likely present,Not present,Not present,Likely present,Not present,Present,Present
+Vulnerability Detection,Likely present,Not present,Likely present,Not present,Likely present,Present (but discussed),Not present,Not present,Present
+Fuzzing,Does not apply,Not present,Likely present,Does not apply,Not present,Not present,Not present,Not present,Partly present
+Vulnerability Detection,Not present,Partly present,Unclear from text,Not present,Not present,Unclear from text,Not present,Likely present,Present

@@ -14,7 +14,7 @@ If you used our data or want to cite our work, please use the following BibTeX e
 ```
 
 ## Pitfall Review Data
-The review data (with omitted paper titles) can be found [here](./analysis/data/pitfalls.csv).
+The review data (with omitted paper titles) can be found [here](./analysis/llm-pitfalls-data.csv).
 
 ## Living Appendix
 The project website with the living appendix can be found [here]().
