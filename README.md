@@ -1,6 +1,6 @@
 # Chasing Shadows: Pitfalls in LLM Security Research
 
-This is the artifact repository for the paper "Chasing Shadows: Pitfalls in LLM Security Research".
+This is the artifact repository for the NDSS'26 paper "Chasing Shadows: Pitfalls in LLM Security Research".
 
 ## Citation
 If you used our data or want to cite our work, please use the following BibTeX entry:
