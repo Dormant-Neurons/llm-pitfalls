@@ -17,7 +17,7 @@ If you used our data or want to cite our work, please use the following BibTeX e
 The review data (with omitted paper titles) can be found [here](./analysis/llm-pitfalls-data.csv).
 
 ## Living Appendix
-The project website with the living appendix can be found [here]().
+The project website with the living appendix can be found [here](https://llmpitfalls.org).
 
 ## Reproducing the Experiments
 
