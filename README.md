@@ -1,6 +1,7 @@
 # Chasing Shadows: Pitfalls in LLM Security Research
 
-[![DOI](https://zenodo.org/badge/1098026378.svg)](https://doi.org/10.5281/zenodo.17847798)
+[![Zenodo Artifact](https://img.shields.io/badge/Zenodo-Artifact-16825d?style=flat)](https://doi.org/10.5281/zenodo.17847798)
+[![NDSS Paper](https://img.shields.io/badge/NDSS'26-Paper-007ec6?style=flat)](https://www.ndss-symposium.org/wp-content/uploads/2026-f1749-paper.pdf)
 
 This is the artifact repository for the NDSS'26 paper "Chasing Shadows: Pitfalls in LLM Security Research".
 
